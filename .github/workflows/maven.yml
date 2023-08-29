@@ -1,4 +1,4 @@
-name: Java spring boot deployment
+name: Java SpringBoot deployment
 
 on:
   push:
